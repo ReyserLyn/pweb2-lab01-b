@@ -13,6 +13,10 @@ public class Calculator{
 
 
 	}
+	
+	public static int div(int x, int y){
+		return x / y;
+	}
 
 	public static int mod(int x, int y){
 		return x % y;
