@@ -12,10 +12,10 @@ public class Calculator{
 		// mul
 
 
-		// div
-		
+	}
 
-		// mod
+	public static int mod(int x, int y){
+		return x % y;
 	}
 	// mul
 	public static int mult(int a, int b) {
