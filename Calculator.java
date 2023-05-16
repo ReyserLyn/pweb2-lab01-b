@@ -3,7 +3,7 @@ public class Calculator{
 		// Clase creada
 		
 
-		// add
+		//add
 		
 
 		// sub
@@ -17,4 +17,10 @@ public class Calculator{
 
 		// mod
 	}
+
+	public static int add(int x, int y) {
+        return x + y;
+        }
+
+
 }
