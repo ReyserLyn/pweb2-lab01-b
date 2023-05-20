@@ -198,6 +198,8 @@
     - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
 
+ **URL: <https://github.com/ReyserLyn/pweb2-lab01-b>**
+
    - ![imag](./imag/Imagen22.png)
    - ![imag](./imag/Imagen23.png)
    - ![imag](./imag/Imagen24.png)
