@@ -98,7 +98,7 @@
 
     **- Carrasco Choque Arles Melvin:**
 
-    - ![imag](imagen1.png)
+    - ![imag](Imagen1.png)
 
     **- Chara Condori Jean Carlo:**
 
