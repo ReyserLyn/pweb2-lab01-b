@@ -98,19 +98,19 @@
 
     **- Carrasco Choque Arles Melvin:**
 
-    - ![imag](Imagen1.png)
+    - ![imag](./imag/Imagen1.png)
 
     **- Chara Condori Jean Carlo:**
 
-    - ![imag](./imag/imagen2.png)
+    - ![imag](./imag/Imagen2.png)
     
     **- Choquecondo Aspilcueta Daniela Mabel:**
 
-    - ![imag](./imag/imagen3.png)
+    - ![imag](./imag/Imagen3.png)
 
     **- Zapata Butron Reyser Julio**
 
-    - ![imag](./imag/imagen4.png)
+    - ![imag](./imag/Imagen4.png)
 
 
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
@@ -120,16 +120,16 @@
     URL del proyecto:<https://github.com/carrascoArles/proyectoPweb1>
 
     **1. Primer commit**
-    - ![imag](./imag/imagen5.png)
+    - ![imag](./imag/Imagen5.png)
 
 
     **2. Segundo commit :**
-    - ![imag](./imag/imagen6.png)
+    - ![imag](./imag/Imagen6.png)
 
 
     **3. Tercer commit :**
-    - ![imag](./imag/imagen7.png)
-    - ![imag](./imag/imagen8.png)
+    - ![imag](./imag/Imagen7.png)
+    - ![imag](./imag/Imagen8.png)
 
 
     **- Chara Condori Jean Carlo:**
@@ -137,18 +137,18 @@
     URL del proyecto: <https://github.com/JeanChara/holaMundo>
 
     **1. Primer commit**
-    - ![imag](./imag/imagen9.png)
+    - ![imag](./imag/Imagen9.png)
 
 
     **2. Segundo commit :**
-    - ![imag](./imag/imagen10.png)
+    - ![imag](./imag/Imagen10.png)
 
 
     **3. Tercer commit :**
-    - ![imag](./imag/imagen11.png)
+    - ![imag](./imag/Imagen11.png)
 
     **4. Cuarto commit :**
-    - ![imag](./imag/imagen12.png)
+    - ![imag](./imag/Imagen12.png)
 
     
     **- Choquecondo Aspilcueta Daniela Mabel:**
@@ -156,18 +156,18 @@
     URL del proyecto: <https://github.com/Dan-Ar5/Pweb2-lab1>
 
     **1. Primer commit**
-    - ![imag](./imag/imagen13.png)
+    - ![imag](./imag/Imagen13.png)
 
     **2. Segundo commit :**
-    - ![imag](./imag/imagen14.png)
+    - ![imag](./imag/Imagen14.png)
 
 
     **3. Tercer commit :**
-    - ![imag](./imag/imagen15.png)
+    - ![imag](./imag/Imagen15.png)
 
     **4. Cuarto commit :**
-    - ![imag](./imag/imagen16.png)
-    - ![imag](./imag/imagen17.png)
+    - ![imag](./imag/Imagen16.png)
+    - ![imag](./imag/Imagen17.png)
 
 
     **- Zapata Butron Reyser Julio**
@@ -175,18 +175,18 @@
     URL del proyecto: <https://github.com/ReyserLyn/EjercicioResuelto-pweb2-lab01>
 
     **1. Primer commit**
-    - ![imag](./imag/imagen18.png)
+    - ![imag](./imag/Imagen18.png)
 
 
     **2. Segundo commit :**
-    - ![imag](./imag/imagen19.png)
+    - ![imag](./imag/Imagen19.png)
 
 
     **3. Tercer commit :**
-    - ![imag](./imag/imagen20.png)
+    - ![imag](./imag/Imagen20.png)
 
     **4. Cuarto commit :**
-    - ![imag](./imag/imagen21.png)
+    - ![imag](./imag/Imagen21.png)
 
 
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
@@ -198,15 +198,15 @@
     - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
 
-   - ![imag](./imag/imagen22.png)
-   - ![imag](./imag/imagen23.png)
-   - ![imag](./imag/imagen24.png)
+   - ![imag](./imag/Imagen22.png)
+   - ![imag](./imag/Imagen23.png)
+   - ![imag](./imag/Imagen24.png)
    
    **Ramas:**
-   - ![imag](./imag/imagen25.png)
+   - ![imag](./imag/Imagen25.png)
 
    **Commits:**
-   - ![imag](./imag/imagen26.png)
+   - ![imag](./imag/Imagen26.png)
 
 #
 
